@@ -1,1 +1,2 @@
-# mds_and_pcoa_demo
+This is the code from the StatQuest...
+* MDS and PCoA in R: https://youtu.be/pGAUHhLYp5Q
